@@ -1,0 +1,19 @@
+.fenixlogo {
+  height: 45px; }
+
+.navbar-inverse {
+  background-color: #000 !important; }
+
+.navbar-brand {
+  padding: 3px 5px !important; }
+
+/* Middle Section */
+.btn {
+  font-size: 1.1em !important; }
+
+p.red {
+  font-style: italic;
+  color: red; }
+
+.packages {
+  width: 568px; }
